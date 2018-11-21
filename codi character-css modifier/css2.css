@@ -1,0 +1,51 @@
+.mouth {
+  background-color: hotpink ;
+  width: 66px;
+  height: 50px;
+}
+ .ear {
+  background-color:;
+  height: ;
+}
+
+.eye {
+  background-color:blue;
+}
+/* We love codi */
+.codi {
+  position: relative;
+  color: black;
+  font-size: 8px;
+  float: left;
+  top: 100px;
+}
+
+
+/* BACKGROUND COLOR */
+body {
+ background-color:purple;
+}
+
+/*shirt-COLOR */
+.body {
+background:blue ;
+
+}
+
+/* TEXT ON T-SHIRT */
+.shirt-text::before{
+    content:"Hagop";
+    color: orange;
+  }
+
+    
+    /*BEARD*/
+.head {
+    background:
+}
+/*HAIR*/
+
+.hair-top ,.hair-bottom ,.eyebrow{
+background:brown
+ ;
+}
